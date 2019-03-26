@@ -1,0 +1,18 @@
+h2, li, p{
+    Font-Family:'Charmonman', Cursive;
+}
+Body{
+    Background-color:red;
+}
+img{
+    height: 300px;
+}
+.best{
+    Color: White;
+}
+.title{
+    Color:white;
+}
+.p{
+    Color:white;
+}
